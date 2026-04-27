@@ -13,7 +13,7 @@ It showcases how to build, test, and validate a REST API using:
 
 # 🚀 Purpose
 
-This project is designed to teach:
+This project is designed to demonstrate:
 
 * Automated API testing
 * Integration testing with a database
@@ -22,7 +22,7 @@ This project is designed to teach:
 
 ---
 
-# 🧠 What You’ll Learn
+# 🧠 What is shown
 
 * Writing API tests using SuperTest
 * Testing authentication flows
@@ -239,18 +239,6 @@ npm test
 * Test both success and failure scenarios
 * Never expose sensitive data (e.g. passwords)
 * Use helpers for repeated logic
-
----
-
-# 🚀 Next Steps
-
-To extend this project:
-
-* Add real authentication (JWT)
-* Use PostgreSQL instead of SQLite
-* Add Docker for local environments
-* Integrate into GitHub Actions CI
-* Add API mocking and external service testing
 
 ---
 
